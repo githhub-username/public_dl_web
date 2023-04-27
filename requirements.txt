@@ -1,9 +1,9 @@
-numpy
-pickle
+numpy==1.23.5
+pickle==23.1.2
 pickle-mixin
-streamlit
-streamlit-option-menu
+streamlit==1.21.0
+streamlit-option-menu==0.3.2
 scikit-learn
-pandas
+pandas==1.5.3
 matplotlib
 tensorflow
