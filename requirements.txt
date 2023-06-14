@@ -2,7 +2,7 @@ numpy==1.23.5
 pickle-mixin==1.0.2
 streamlit==1.21.0
 streamlit-option-menu==0.3.2
-scikit-learn
+scikit-learn==1.2.2
 pandas==1.5.3
-matplotlib
-tensorflow
+matplotlib==3.7.1
+tensorflow==2.12.0
